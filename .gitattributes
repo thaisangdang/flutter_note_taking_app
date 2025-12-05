@@ -1,0 +1,11 @@
+# Ignore Flutter platform-specific code from language stats
+android/**/* linguist-vendored
+ios/**/* linguist-vendored
+macos/**/* linguist-vendored
+linux/**/* linguist-vendored
+windows/**/* linguist-vendored
+web/**/* linguist-vendored
+
+# (Optional) If you have generated files you want to ignore
+*.g.dart linguist-generated
+*.freezed.dart linguist-generated
