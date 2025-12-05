@@ -2,6 +2,11 @@
 
 A minimal text editor that saves your thoughts permanently on the device. This project teaches **Local Database Storage** using Hive, a popular NoSQL alternative to SQLite.
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="./screenshot-1.png" width="300">
+  <img src="./screenshot-2.png" width="300">
+</div>
+
 ## 🎯 Learning Outcomes
 - **Hive Database:** Initializing, opening boxes, and reading/writing data.
 - **Persistence:** Saving data to the device's file system.
